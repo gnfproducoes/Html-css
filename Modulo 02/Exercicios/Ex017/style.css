@@ -1,0 +1,21 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    /* 
+    Medidas Absolutas
+    cm, mm, in, px, pt, pc
+    
+    Medidas Relativas
+    em, ex, rem, vw, vh, %
+    */
+    font-size: 17px;
+    /* ligther normal bold bolder */
+}
+h1{
+    /* shorthand font
+    font-style -> font-weigth -> font-size -> font-family
+    */
+    font: italic bolder 40px times new roman;
+}
+h2{
+    font: normal 30px arial;
+}
